@@ -109,7 +109,7 @@ The project follows a structured workflow for adding new components:
 
 **Shaurya Aggarwal**
 
--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shaurya-aggarwal-405854372/)
+-   [![LinkedIn](https://www.linkedin.com/in/shaurya-aggarwal-88a968365/)
 -   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/shaurya-aggarwal44)
 
 ---
