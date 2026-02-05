@@ -108,9 +108,5 @@ The project follows a structured workflow for adding new components:
 ## 👨‍💻 Author
 
 **Shaurya Aggarwal**
-
--   [![LinkedIn](https://www.linkedin.com/in/shaurya-aggarwal-88a968365/)
--   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/shaurya-aggarwal44)
-
 ---
 *Built with ❤️ by Shaurya Aggarwal*
